@@ -11,6 +11,7 @@
             :imageUrl="post.imageUrl"
             :userName="post.user.userName"
             :date="post.date"
+            :likes="post.likes"
             :id="post._id"
             :isOwner="post.user._id === currentUser.userId"
             :isAdmin="currentUser.isAdmin"
