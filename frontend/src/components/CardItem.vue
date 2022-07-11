@@ -244,7 +244,7 @@ input {
   height: 20%;
 }
 i.bi-trash {
-  margin-left: 8.5rem;
+  margin-left: 8rem;
 }
 i.bi-pencil-square {
   margin-left: 1.5rem;
@@ -287,7 +287,7 @@ i.bi-trash:hover {
     height: 40%;
   }
   i.bi-trash {
-    margin-left: 4rem;
+    margin-left: 3rem;
   }
 }
 </style>
